@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r my_firstdirdeletion
+rmdir /tmp/my_firstdirdeletion
