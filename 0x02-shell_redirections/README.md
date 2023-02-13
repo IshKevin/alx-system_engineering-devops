@@ -11,4 +11,5 @@ $ 5-firstlines for moving to first line
 $ 6-third_line for moving to thirdline
 $ 7-file contain script that creat file
 $ 8-cwd_state contain script to write in file
-$ 9-duplicate_last_line contain script for duplicate last line  
+$ 9-duplicate_last_line contain script for duplicate last line
+$ 10-no_more_js contain script that delete all js file   
