@@ -5,3 +5,4 @@ This file is all about Shell Input/output Redirections
 $ 0-hello world script for echo hello world
 $ 1-c0nfused_smiley for display smile face
 $ 2-hellofile for display content of file
+$ 3-twofiles for display content of two file
