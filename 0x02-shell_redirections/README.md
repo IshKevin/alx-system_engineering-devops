@@ -26,4 +26,5 @@ $ 20-hiago contain script to replace letter c
 $ 21-revers containt script to revers
 $ 22-users_and_homes contain script for to display all user
 $ 100-empty_cask contain script to display empty files
-$ 101-gifs contain script for gifs             
+$ 101-gifs contain script for gifs
+$ 102-acrostic contain script for acrostic             
