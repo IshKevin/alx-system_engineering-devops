@@ -10,4 +10,5 @@ $ 4-lastlines for display last line of file
 $ 5-firstlines for moving to first line
 $ 6-third_line for moving to thirdline
 $ 7-file contain script that creat file
-$ 8-cwd_state contain script to write in file  
+$ 8-cwd_state contain script to write in file
+$ 9-duplicate_last_line contain script for duplicate last line  
