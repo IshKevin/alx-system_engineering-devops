@@ -19,4 +19,5 @@ $ 13-unique contain script for displaying unique string
 $ 14-findthatword contain script for find special word
 $ 15-countthatword contain script count specific word
 $ 16-whatsnext contain script for countng only three word
-$ 17-hidethisword contain script for hidding special string       
+$ 17-hidethisword contain script for hidding special string
+$ 18-letteronly contain scrit for disply line start with letter only        
