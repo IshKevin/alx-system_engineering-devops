@@ -13,4 +13,5 @@ $ 7-file contain script that creat file
 $ 8-cwd_state contain script to write in file
 $ 9-duplicate_last_line contain script for duplicate last line
 $ 10-no_more_js contain script that delete all js file
-$ 11-directories contain script for counting files    
+$ 11-directories contain script for counting files
+$ 12-newest_file contain script for counting ten new file     
