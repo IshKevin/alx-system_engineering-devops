@@ -8,4 +8,5 @@ $ 2-hellofile for display content of file
 $ 3-twofiles for display content of two file
 $ 4-lastlines for display last line of file
 $ 5-firstlines for moving to first line
-$ 6-third_line for moving to thirdline 
+$ 6-third_line for moving to thirdline
+$ 7-file contain script that creat file  
