@@ -17,4 +17,5 @@ $ 11-directories contain script for counting files
 $ 12-newest_file contain script for counting ten new file
 $ 13-unique contain script for displaying unique string
 $ 14-findthatword contain script for find special word
-$ 15-countthatword contain script count specific word      
+$ 15-countthatword contain script count specific word
+$ 16-whatsnext contain script for countng only three word      
