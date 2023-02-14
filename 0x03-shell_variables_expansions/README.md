@@ -10,4 +10,4 @@ $ 4-global contain script to display envronmental variable <br>
 $ 5-local_variables script to display local variable<br>
 $ 6-create_local_variable contain script to creat local variable<br>
 $ 7-create_global_variable contain script to create global variable<br>
-
+$ 8-true_knowledge contain script to add strings 
