@@ -7,4 +7,5 @@ $ 1-hello_you contain script to great user from variable <br>
 $ 2-path contain script to display path <br>
 $ 3-paths contain script to find many paths <br>
 $ 4-global contain script to display envronmental variable <br>
+$ 5-local_variables script to display local variable<br>
 
