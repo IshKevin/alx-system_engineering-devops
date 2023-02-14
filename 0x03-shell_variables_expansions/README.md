@@ -18,3 +18,4 @@ $ 12-combination contain script for .......<br>
 $ 13-print_float contain script that print two number <br> 
 $ 100-decimal_to_hexadecimal script that change from decimal to hexidecimal<br>
 $ 101-rot13 contain script to decod using rot13<br>
+$ 102-odd contain script tp ....<br>
