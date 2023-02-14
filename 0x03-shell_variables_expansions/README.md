@@ -8,4 +8,5 @@ $ 2-path contain script to display path <br>
 $ 3-paths contain script to find many paths <br>
 $ 4-global contain script to display envronmental variable <br>
 $ 5-local_variables script to display local variable<br>
+$ 6-create_local_variable contain script to creat local variable<br>
 
