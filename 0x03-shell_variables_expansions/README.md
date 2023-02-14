@@ -12,4 +12,6 @@ $ 6-create_local_variable contain script to creat local variable<br>
 $ 7-create_global_variable contain script to create global variable<br>
 $ 8-true_knowledge contain script to add strings<br>
 $ 9-divide_and_rule contain script to divide <br>
-$ 10-love_exponent_breath contain script for ..... <br> 
+$ 10-love_exponent_breath contain script for ..... <br>
+$ 11-binary_to_decimal contain script for change from binary to decimal<br>
+ 
